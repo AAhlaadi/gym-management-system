@@ -1,7 +1,11 @@
-# gym-management-system
+# Gym Management System
+# Description
+Gym Management System is specially designed for the purpose of adding records in a gym. In this system, the user can store records easily according to their categories. There are different types of categories such as Member, Coach, Staffs. The user can add, edit, view, remove Gym member’s records. Records are displayed in a systematic way. The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. It’s easy to operate and understand by users. There is no any error and warning contents in the project. The design is so simple that user won’t find it difficult to use and navigate.
+
+
 # Menu setup
 ![image](https://user-images.githubusercontent.com/103484025/177034056-9791ca23-433b-412f-be24-2efe3650aee7.png)
-# Add memeber
+# Add member
 ![image](https://user-images.githubusercontent.com/103484025/177034143-63fc60b2-26c2-475e-b38b-2cf787c32156.png)
 # View members list
 ![image](https://user-images.githubusercontent.com/103484025/177034173-7434d025-9c92-4d17-8573-d5d3aae56349.png)
